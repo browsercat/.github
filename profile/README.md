@@ -1,3 +1,5 @@
-Meow! BrowserCat is currently in beta.
+BrowserCat is the purr-fect headless browser API. Automate workflows, scrape the web, generation images and pdfs, give you AI agent web access, test your web apps, and more.
 
-Click to get free access to our suite of [headless browser APIs](https://www.browsercat.com).
+Our free plan includes 1,000 requests per month.
+
+[Start now!](https://www.browsercat.com).
