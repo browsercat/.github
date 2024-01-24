@@ -2,4 +2,4 @@ BrowserCat is the purr-fect headless browser API. Automate workflows, scrape the
 
 Our free plan includes 1,000 requests per month.
 
-[Start now!](https://www.browsercat.com).
+[Start now!](https://www.browsercat.com)
